@@ -1,2 +1,1 @@
-# amazon-review-text-mining
-amazon-review-text-mining
+# text-mining-amazon
